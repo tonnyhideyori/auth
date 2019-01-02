@@ -1,0 +1,14 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "this is for training purpose of authentication and authorization using node.js as back end and react-redux for front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "Edwin Ismail",
+  "license": "MIT"
+}
