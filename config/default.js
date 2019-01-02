@@ -1,0 +1,1 @@
+module.exports={jwtPrivateKey:"razfgsvdndgagzeva"}
